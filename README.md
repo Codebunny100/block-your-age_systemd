@@ -22,6 +22,7 @@ This repository contains the following structural components:
 * **`install.sh`**: A quick deployment automated script to automatically align file permissions and launch the engine.
 
 ---
+
 ## ⚠️ Legal Notice, Scope & Compliance Guidelines
 
 Before installing or publishing this utility, you must understand the legal parameters regarding local hardware ownership vs. active access control. 
