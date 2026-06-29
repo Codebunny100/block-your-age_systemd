@@ -39,7 +39,15 @@ Before installing or publishing this utility, you must understand the legal para
 * **Bypassing Controlled Substance Restrictions**: Using this script to misrepresent your age to purchase regulated real-world products online—such as alcohol, tobacco, cannabis, or firearms—constitutes fraud or identity misrepresentation under federal and state statutes.
 * **Accessing Restricted Material by Minors**: If this tool is deployed on a machine used by a minor to bypass age gates for adult-only content, it may violate regional child online protection statutes. It is illegal to use this daemon to facilitate unauthorized access to age-restricted web content for individuals under the legal age limit.
 * **Corporate Environment Audits**: Deploying this on university or enterprise workstations to actively mask asset tracking variables may violate company policies and local digital trespassing laws.
+## ⚖️ DISCLAIMER & LIMITATION OF LIABILITY
+**PLEASE READ CAREFULLY BEFORE USING OR DISTRIBUTING THIS SOFTWARE.**
 
+This software is provided "as is" for privacy-preservation research and educational purposes only. 
+
+* **No Liability**: The author and project contributors accept absolutely NO responsibility or liability for any consequences, legal actions, account bans, financial losses, data corruption, or hardware damage resulting from the use, modification, installation, or distribution of this software.
+* **User Responsibility**: By executing this script, you acknowledge that you are using it entirely at your own risk. You are solely responsible for ensuring compliance with all local, state, federal, and international laws, as well as any private third-party Terms of Service (ToS) agreements.
+
+---
 ---
 
 ## Automated Quick-Start Installation
