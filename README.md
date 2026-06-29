@@ -55,7 +55,7 @@ This software is provided "as is" for privacy-preservation research and educatio
 ### 1. Clone this Repository
 Download these files to your local Linux workstation terminal using git:
 ```bash
-git clone https://github.com/codebunny100/block-your-age_systemd
+git clone https://github.com/codebunny100/block-your-age_systemd age-blocker-daemon
 cd age-blocker-daemon
 ```
 
