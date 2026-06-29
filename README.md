@@ -22,6 +22,24 @@ This repository contains the following structural components:
 * **`install.sh`**: A quick deployment automated script to automatically align file permissions and launch the engine.
 
 ---
+## ⚠️ Legal Notice, Scope & Compliance Guidelines
+
+Before installing or publishing this utility, you must understand the legal parameters regarding local hardware ownership vs. active access control. 
+
+### 🟢 Where It Is Legal To Use (Data Privacy & Device Ownership)
+* **Local Machine Configuration**: Under standard property law and free software licenses (like the GNU GPL), you have an absolute legal right to modify, write to, delete, or spoof any metadata stored on a computer you physically own. 
+* **Regulatory Exemptions**: Emerging data laws like California's Digital Age Assurance Act (AB 1856) place compliance mandates on *commercial operating system providers* (e.g., Apple, Microsoft), not individual end-users. Furthermore, open-source operating systems are explicitly exempt from forcing these data-collection interfaces.
+* **General Web Browsing**: Using a proxy script to supply a generic adult birthdate placeholder to protect your online privacy fingerprint is entirely legal.
+
+### 🟡 Where It Violates Terms of Service (Civil Contracts)
+* **Private Platform Rules**: Supplying a placeholder date like 1939 to commercial web applications (such as YouTube, online marketplaces, or social networks) when creating or validating accounts violates the platform's Terms of Service (ToS). While **not a criminal offense**, discovery will result in civil remedies, including permanent account bans or IP blocks.
+
+### 🔴 Where It Becomes Illegal To Use (Statutory Violations)
+* **Bypassing Controlled Substance Restrictions**: Using this script to misrepresent your age to purchase regulated real-world products online—such as alcohol, tobacco, cannabis, or firearms—constitutes fraud or identity misrepresentation under federal and state statutes.
+* **Accessing Restricted Material by Minors**: If this tool is deployed on a machine used by a minor to bypass age gates for adult-only content, it may violate regional child online protection statutes. It is illegal to use this daemon to facilitate unauthorized access to age-restricted web content for individuals under the legal age limit.
+* **Corporate Environment Audits**: Deploying this on university or enterprise workstations to actively mask asset tracking variables may violate company policies and local digital trespassing laws.
+
+---
 
 ## Automated Quick-Start Installation
 
