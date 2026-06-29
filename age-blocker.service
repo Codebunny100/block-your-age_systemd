@@ -1,0 +1,33 @@
+# ==============================================================================
+# Service Name:     age-blocker.service
+# Target Directory: /etc/systemd/system/age-blocker.service
+# Description:      System unit parameters mapping permissions, error recovery,
+#                   and startup hooks for the background privacy engine.
+# ==============================================================================
+
+[Unit]
+Description=Continuous Age Verification Blocker and Telemetry Interception Daemon
+After=multi-user.target systemd-userdbd.service
+Description=Defends workstation identity metrics from tracking during boot runtime cycles.
+Documentation=https://github.com
+
+[Service]
+# Execute as a standard detached process binary
+Type=simple
+
+# Full structural directory path to the engine binary target
+ExecStart=/usr/local/bin/age-blocker.sh
+
+# Fail-Safe Policy: If the script process crashes or is killed, resurrect it immediately
+Restart=always
+
+# Delay time in seconds before attempting a service crash resurrection
+RestartSec=5
+
+# Require root system access parameters to authorize process tree filtering actions
+User=root
+Group=root
+
+[Install]
+# Links this daemon into the multi-user terminal system boot target sequence
+WantedBy=multi-user.target
