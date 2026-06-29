@@ -99,4 +99,4 @@ BLACKLISTED_TRACKERS=("age-checker" "intrusive-verify-daemon" "the-target-proces
 ---
 
 ## License
-This application is distributed under the open-source guidelines of the [MIT License](LICENSE).
+This application is distributed under the open-source guidelines of the [GNU gplV3](LICENSE).
